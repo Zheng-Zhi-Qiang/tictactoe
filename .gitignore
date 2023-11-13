@@ -1,0 +1,7 @@
+classes
+*.txt
+*.tmp
+*.csv
+*.log
+tmp*
+**/.DS_Store
